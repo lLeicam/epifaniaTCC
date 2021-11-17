@@ -1,5 +1,35 @@
-.container{
+.outside{
     background-color: #FFFFFF;
-    border-radius: 15% 100% 100% 13% / 52% 0% 0% 54%;
-    padding-bottom: 310px;
+    margin-left: 650px;
+    border-radius: 23% 10% 10% 22% / 45% 0% 0% 54%;
+    padding-bottom: 165px;
+}
+
+
+p{
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #173963;
+    margin-left: 45%;
+    padding-top: 100px;
+}
+
+.email{
+    margin-left: 200px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+
+.senha{
+    margin-left: 200px;
+    margin-right: 100px;
+    margin-top: 10px;
+}
+
+.botao{
+    margin-top: 50px;
+    margin-right: 200px;
+    margin-left: 300px;
+    width: 150px;
+    
 }
