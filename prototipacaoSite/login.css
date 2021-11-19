@@ -1,35 +1,42 @@
+body{
+    background-image: url(./imgs/0.png);
+    background-repeat: no-repeat;
+    background-position: 100px 60px;
+}
+
 .outside{
     background-color: #FFFFFF;
-    margin-left: 650px;
+    margin-left: 50%;
     border-radius: 23% 10% 10% 22% / 45% 0% 0% 54%;
-    padding-bottom: 165px;
+    height: 625px;
 }
 
 
 p{
-    font-size: 80px;
+    font-size: 90px;
     font-family: Arial, Helvetica, sans-serif;
     color: #173963;
-    margin-left: 45%;
-    padding-top: 100px;
+    margin-left: 35%;
+    padding-top: 8%;
 }
 
 .email{
-    margin-left: 200px;
-    margin-right: 100px;
-    margin-top: 50px;
+    margin-left: 20%;
+    margin-right: 10%;
+    margin-top: 10%;
 }
 
 .senha{
-    margin-left: 200px;
-    margin-right: 100px;
-    margin-top: 10px;
+    margin-left: 20%;
+    margin-right: 10%;
+    margin-top: 2%;
 }
 
 .botao{
-    margin-top: 50px;
-    margin-right: 200px;
-    margin-left: 300px;
+    margin-top: 10%;
+    margin-left: 40%;
     width: 150px;
     
 }
+
+
