@@ -42,7 +42,7 @@ p{
     width: 150px;  
 }
 
-/*tablets*/
+/*responsivo*/
 @media screen and (max-width: 768px){
     body{
         background: url(./imgs/0.png),
