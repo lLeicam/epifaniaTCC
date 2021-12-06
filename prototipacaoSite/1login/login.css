@@ -37,9 +37,15 @@ p{
 }
 
 .botao{
-    margin-top: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
     margin-left: 40%;
     width: 150px;  
+}
+
+.botaoum{
+    margin-left: 33%;
+    width: 250px;
 }
 
 /*responsivo*/
@@ -90,6 +96,11 @@ p{
         margin-top: 5%;
         margin-left: 40%;
         width: 100px;  
+    }
+
+    .botaoum{
+        margin-left: 30%;
+        width: 200px;
     }
 
 }
