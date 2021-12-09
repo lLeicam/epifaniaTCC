@@ -13,32 +13,31 @@
 </head>
 <body style="background-color: #97BFEA">
     <div class="cadastreSe">
-        <div class="row g-3">
-            <p>Cadastre-se</p>
+        <h1>Cadastre-se</h1>
+            <form  class="row g-0">
                 <div class="col-md-5">
-                    <label type="text" aria-placeholder="Digite seu nome">Nome</label>
-                    <input type="text" class="form-control" name="nome" id="nome">
+                    <label for="text" id="nome">Nome</label>
+                    <input type="text" class="form-control" name="nome" id="meno">
                 </div>
-                <br>
                 <div class="col-md-5">
-                    <label type="password" aria-placeholder="Digite sua senha">Senha</label>
-                    <input type="password" class="form-control" name="senha" id="senha">
+                    <label for="password" id="senha">Senha</label>
+                    <input type="password" class="form-control" name="senha" id="sen">
                 </div>
-                <br>
                 <div class="col-md-5">
-                    <label type="password" aria-placeholder="Confirme sua senha">Confirmar sua senha</label>
-                    <input type="password" class="form-control" name="confirma" id="confirma">
+                    <label for="text" id="confirsenha">Confirma senha</label>
+                    <input type="text" class="form-control" name="confirsenha" id="confirma">
                 </div>
-                <br>
                 <div class="col-md-5">
-                    <label type="text">Grupo de usuario</label>
-                    <select class="form-select" aria-label="Default select example">
-                        <option value="1">Colaborador</option>
-                        <option value="2">Tecnico</option>
+                    <label for="text" id="grup">Grupo de usuários</label>
+                    <select class="form-select" id="select">
+                        <option value="1">Técnico</option>
+                        <option value="2">Colaborador</option>
                     </select>
                 </div>
-                <br>
-        </div>
+                <div>
+                    <input type="button" class="btn btn-primary" id="botaozinho" value="Cadastrar">
+                </div>
+            </form>
     </div>
 </body>
 </html>
