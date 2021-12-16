@@ -37,16 +37,12 @@ p{
 }
 
 .botao{
-    margin-top: 5%;
+
     margin-bottom: 5%;
     margin-left: 40%;
     width: 150px;  
 }
 
-.botaoum{
-    margin-left: 33%;
-    width: 250px;
-}
 
 /*responsivo*/
 @media screen and (max-width: 768px){
@@ -54,8 +50,8 @@ p{
         background: url(./imgs/0.png),
         url(./imgs/2.png);
         background-repeat: no-repeat, no-repeat;
-        background-position: 50% 13px, 50% 20%;
-        background-size: 100%, 50%;
+        background-position: 50% 2%, 50% 15%;
+        background-size: auto, 50%;
     }
 
     .outside{
@@ -96,11 +92,6 @@ p{
         margin-top: 5%;
         margin-left: 40%;
         width: 100px;  
-    }
-
-    .botaoum{
-        margin-left: 30%;
-        width: 200px;
     }
 
 }
