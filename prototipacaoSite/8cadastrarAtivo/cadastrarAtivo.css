@@ -1,13 +1,12 @@
-
 body{
-    background: url(./img/0.png),
-    url(./img/1.png);
+    background: url(./imgs/0.png),
+    url(./imgs/1.png);
     background-repeat: no-repeat, no-repeat;
     background-position: 1% 3%, 98% 3%;
     background-size: auto, 8%;
 }
 
-.cadastreSe{
+.ativo{
     background-color: #fff;
     margin-top: 10%;
     border-radius: 51% 49% 0% 0% / 49% 48% 0% 0%;
@@ -23,21 +22,21 @@ h1{
     margin-left: 35%;
 }
 
-#nome, #senha{
+#tipo, #localizacao{
     margin-top: 10%;
     margin-left: 50%;
 }
 
-#confirsenha, #grup{
+#patrimonio, #descricao{
     margin-left: 50%;
     margin-top: 5%;
 }
 
-#meno, #confirma{
+#tip, #patri{
     margin-left: 15%;
 }
 
-#sen, #select{
+#local, #desc{
     margin-left: 20%;
 }
 
@@ -47,82 +46,56 @@ button{
     width: 150px;  
 }
 
-
-
-/*responsivo 780*/
-@media screen and (max-width: 780px){
+/*responsivo 1200*/
+@media screen and (max-width: 1200px){
     body{
-        background: url(./img/0.png),
-        url(./img/2.png);
-        background-repeat: no-repeat, no-repeat;
-        background-size: auto, 50%;
-        background-position: 55% 2%, 50% 15%;
-
-    }
-
-    .cadastreSe{
-        width: auto;
-        height: auto;
-        margin-top: 40%;
-    }
-
-    h1{
-        font-size: 25px;
-        margin-left: 24%;
-    }
-    
-    #meno, #confirma{
-        margin-left: 10%;
-        width: 80%;
-        margin-top: 0%;
-    }
-    
-    #sen, #select{
-        margin-left: 10%;
-        width: 80%;
-        margin-top: 0%;
-    }
-
-    #nome, #senha{
-        margin-top: 5%;
-        margin-left: 45%;
-    }
-
-    #nome{
-        margin-top: 10%;
-    }
-    
-    #confirsenha, #grup{
-        margin-left: 40%;
-        margin-top: 5%;
-
-    }
-
-    button{
-        margin-bottom: 5%;
-        margin-top: 5%;
-        margin-left: 40%;
-    }
-
-}
-
-
-/*responsivo 980/
-@media screen and (min-width: 980px){
-    body{
-        background: url(./img/0.png),
-        url(./img/2.png);
+        background: url(./imgs/0.png),
+        url(./imgs/2.png);
         background-repeat: no-repeat, no-repeat;
         background-size: auto, 30%;
         background-position: 55% 2%, 50% 15%;
 
     }
 
-    .cadastreSe{
+    .ativo{
         width: auto;
         height: auto;
         margin-top: 30%;
     }
+
+    
+    h1{
+        font-size: 25px;
+        margin-left: 30%;
+    }
+    
+    #tip, #patri{
+        margin-left: 10%;
+        width: 80%;
+        margin-top: 0%;
+    }
+    
+    #local, #desc{
+        margin-left: 10%;
+        width: 80%;
+        margin-top: 0%;
+    }
+
+    #tipo, #localizacao{
+        margin-top: 5%;
+        margin-left: 45%;
+    }
+
+    #tipo{
+        margin-top: 10%;
+    }
+    
+    #patrimonio, #descricao{
+        margin-left: 40%;
+        margin-top: 5%;
+
+    }
+
 
     button{
         margin-bottom: 5%;
