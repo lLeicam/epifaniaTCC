@@ -1,0 +1,1 @@
+Como a pagina de Descrição de Solicitação e Editar informações da Solicitação tem o mesmo layout, eu fiz só uma, assim você vai apenas copiar e colar do codigo para outro, e apenas alterar o botão de editar para salvar.
