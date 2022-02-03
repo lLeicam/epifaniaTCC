@@ -22,12 +22,12 @@ h1{
     margin-left: 35%;
 }
 
-#tipo, #localizacao{
+#tipinho, #localizacao{
     margin-top: 10%;
     margin-left: 50%;
 }
 
-#patrimonio, #descricao{
+#patrimonio, #descreva{
     margin-left: 50%;
     margin-top: 5%;
 }
@@ -36,7 +36,7 @@ h1{
     margin-left: 15%;
 }
 
-#local, #desc{
+#local, #acai{
     margin-left: 20%;
 }
 
@@ -75,22 +75,22 @@ button{
         margin-top: 0%;
     }
     
-    #local, #desc{
+    #local, #acai{
         margin-left: 10%;
         width: 80%;
         margin-top: 0%;
     }
 
-    #tipo, #localizacao{
+    #tipinho, #localizacao{
         margin-top: 5%;
         margin-left: 45%;
     }
 
-    #tipo{
+    #tipinho{
         margin-top: 10%;
     }
     
-    #patrimonio, #descricao{
+    #patrimonio, #descreva{
         margin-left: 40%;
         margin-top: 5%;
 

@@ -45,7 +45,7 @@ p{
 
 
 /*responsivo*/
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1200px){
     body{
         background: url(./imgs/0.png),
         url(./imgs/2.png);
@@ -61,7 +61,7 @@ p{
         margin-top: 40%;
         border-radius: 100% 100% 0% 0% / 100% 100% 0% 0%;
         width: auto;
-        height: 445px;
+        height: 580px;
 
     }
 

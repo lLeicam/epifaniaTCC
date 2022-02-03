@@ -27,21 +27,21 @@ label{
     margin-top: 5%
 }
 
-#colaboras, #tips, #estado{
+#ninho, #ps, #estado{
     margin-left: 10%;
 }
 
 
-#iden, #urgen, #desc{
+#foto, #urgen, #noronha{
     margin-left: 30%;
 }
 
 
-#colaborador, #tipo, #status{
+#kiwi, #po, #status{
     margin-left: 10%;
 }
 
-#identificacao, #urgencia, #descricao{
+#ovomaltine, #urgencia, #piracicaba{
     margin-left: 30%;
 }
 
@@ -74,12 +74,12 @@ textarea{
         margin-top: 2%;
     }
 
-    #colaborador, #tipo, #status, #identificacao, #urgencia, #descricao{
+    #kiwi, #po, #status, #ovomaltine, #urgencia, #piracicaba{
         margin-left: 5%;
         margin-top: 5%;
     }
 
-    #colaboras, #tips, #estado, #iden, #urgen, #desc{
+    #ninho, #ps, #estado, #foto, #urgen, #noronha{
         margin-left: 5%;
         width: 90%;
     }

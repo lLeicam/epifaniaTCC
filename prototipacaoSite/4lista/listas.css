@@ -31,11 +31,15 @@ input{
     width: 10%;
 }
 
-img{
-    margin-top: 3%;
-    margin-left: 14%;
-    width: 2%;
-    height: 2%;
+.botao0{
+    background: url(./imgs/3.png);
+    background-size: cover;
+    border: none;
+    margin-top: 38px;
+    margin-left: 190px;
+    width: 30px;
+    height: 30px;
+
 }
 
 .botao{
@@ -103,9 +107,9 @@ table{
         width: 70%;
     }
     
-    img{
+    .botao0{
         margin-top: 30px;
-        margin-left: 50px;
+        margin-left: 55px;
         width: 30px;
     }
     

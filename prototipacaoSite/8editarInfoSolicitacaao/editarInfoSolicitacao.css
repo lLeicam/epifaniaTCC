@@ -27,21 +27,21 @@ label{
     margin-top: 5%
 }
 
-#colaboras, #tips, #estado{
+#trunks, #leite, #piccolo{
     margin-left: 10%;
 }
 
 
-#iden, #urgen, #desc{
+#vegeta, #chichi, #funk{
     margin-left: 30%;
 }
 
 
-#colaborador, #tipo, #status{
+#goku, #goten, #bulma{
     margin-left: 10%;
 }
 
-#identificacao, #urgencia, #descricao{
+#spotify, #gohan, #brega{
     margin-left: 30%;
 }
 
@@ -74,12 +74,12 @@ textarea{
         margin-top: 2%;
     }
 
-    #colaborador, #tipo, #status, #identificacao, #urgencia, #descricao{
+    #goku, #goten, #bulma, #spotify, #gohan, #brega{
         margin-left: 5%;
         margin-top: 5%;
     }
 
-    #colaboras, #tips, #estado, #iden, #urgen, #desc{
+    #trunks, #leite, #estado, #vegeta, #chichi, #funk{
         margin-left: 5%;
         width: 90%;
     }
