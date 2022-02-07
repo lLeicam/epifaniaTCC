@@ -22,28 +22,58 @@ h1{
     margin-left: 35%;
 }
 
-#tipinho, #localizacao{
-    margin-top: 10%;
+#tipinho{
+    margin-top: 5%;
     margin-left: 50%;
 }
 
-#patrimonio, #descreva{
+#patrimonio{
+    margin-top: 2%;
+    margin-left: 50%;
+}
+
+#descreva{
     margin-left: 50%;
     margin-top: 5%;
 }
 
-#tip, #patri{
-    margin-left: 15%;
+#localizacao{
+    margin-left: 50%;
+    margin-top: 5%;
 }
 
-#local, #acai{
+#tip{
+    margin-left: 15%;
+}
+#patri{
     margin-left: 20%;
 }
 
+#topo{
+    margin-left: 20%;
+}
+
+#localidade, #acai{
+    margin-left: 25%;
+}
+
 button{
-    margin-top: 5%;
+    margin-top: 3%;
     margin-left: 43%;
     width: 150px;  
+}
+
+#nome{
+    margin-left: 50%;
+    margin-top: 5%;
+}
+
+#roberto{
+    margin-left: 20%;
+}
+
+textarea{
+    resize: none;
 }
 
 /*responsivo 1200*/
